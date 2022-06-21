@@ -54919,7 +54919,7 @@ gqe(){var s=this,r=s.e
 if(r===$){s.gva()
 r=s.e=new A.Ex(A.a4L(null,0,s),B.aS,4,A.ad(0,null,!1,t.Y))}return r},
 gva(){var s=null,r=t.E
-return A.a([new A.f2(B.x2,A.uY(B.bo,A.a([A.qv(A.a9c("/logo/logo.png",s,400),s,s),A.CS(0,A.a5W(A.aaV(B.dI,B.yF,B.rS,B.a8,B.dI,8),new A.a0P(this)),s,s,s,64,s,s),A.CS(0,A.aaV(B.dI,A.a([A.a5b(s,B.xy,s,new A.a0Q(),s),A.a5b(s,B.xz,s,new A.a0R(),s)],r),B.rS,B.aN,B.dI,8),s,s,64,s,s,s)],r),B.bS)),new A.f2(B.x3,B.Dn),new A.f2(B.x4,A.dN(s,s,s,s,s,s,s,s)),new A.f2(B.x1,A.dN(s,s,s,s,s,s,s,s))],t.F1)},
+return A.a([new A.f2(B.x2,A.uY(B.bo,A.a([A.qv(A.a9c("graphics/logo/logo.png",s,400),s,s),A.CS(0,A.a5W(A.aaV(B.dI,B.yF,B.rS,B.a8,B.dI,8),new A.a0P(this)),s,s,s,64,s,s),A.CS(0,A.aaV(B.dI,A.a([A.a5b(s,B.xy,s,new A.a0Q(),s),A.a5b(s,B.xz,s,new A.a0R(),s)],r),B.rS,B.aN,B.dI,8),s,s,64,s,s,s)],r),B.bS)),new A.f2(B.x3,B.Dn),new A.f2(B.x4,A.dN(s,s,s,s,s,s,s,s)),new A.f2(B.x1,A.dN(s,s,s,s,s,s,s,s))],t.F1)},
 R(a,b){var s=this,r=null,q="screenHeight",p=t.w
 s.r=b.a3(p).f.a.a
 p=b.a3(p).f.a.b
@@ -54930,7 +54930,7 @@ s.z=A.b(s.r,"screenWidth")*0.05
 p=A.b(s.y,"bottomPadding")
 return new A.us(A.dN(r,new A.F4(s.XA(),s.ZY(),r),r,B.tw,r,r,new A.aU(0,32,0,p),r),B.wl,s.d)},
 XA(){var s=this,r=null,q=A.b(s.r,"screenWidth"),p=A.b(s.f,"screenHeight"),o=s.gqe(),n=s.gva(),m=A.a0(n).j("an<1,fY>")
-q=A.lx(new A.zX(o,A.a1(new A.an(n,new A.a0S(),m),!0,m.j("aW.E")),A.a9c("logo/logo-min.png",B.ty,r),r),p*0.05,q)
+q=A.lx(new A.zX(o,A.a1(new A.an(n,new A.a0S(),m),!0,m.j("aW.E")),A.a9c("graphics/logo/logo-min.png",B.ty,r),r),p*0.05,q)
 p=s.gqe()
 m=s.gqe()
 n=s.gva()
@@ -54979,7 +54979,7 @@ R(a,b){var s=null
 return new A.t4(B.C6,"HAO SEN",A.a5Y(s,"Noto Sans",s,s,s,A.Yu(s,s,s,B.HI,B.HJ,B.I4,B.HK,s,s,s,B.FD,B.FE,B.FF,s,s,s,s,s,s,A.jV(s,s,B.T.i(0,500),s,s,s,s,s,s,s,s,30,s,s,s,s,!0,s,s,s,s,s,s,s,s),A.jV(s,s,B.T.i(0,500),s,s,s,s,s,s,s,s,20,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s)),s)}}
 A.uK.prototype={
 aB(){var s="\u670d\u52d9\u5167\u5bb9"
-return new A.J3(A.a([new A.ef("\u4f01\u5283\u6d3b\u52d5\n\u884c\u92b7\u898f\u5283\u57f7\u884c",s,"images/button_marketing.png"),new A.ef("\u6d3b\u52d5\u651d\u5f71",s,"images/button_photography.png"),new A.ef("\u5c3e\u7259\u6625\u9152",s,"images/button_spring_wine.png"),new A.ef("\u958b\u571f\u52d5\u5de5",s,"images/button_opening.png"),new A.ef("\u665a\u6703\u898f\u5283",s,"images/button_party_planning.png"),new A.ef("\u97f3\u97ff\u79df\u501f",s,"images/button_audio_rental.png"),new A.ef("\u821e\u53f0\u642d\u5efa",s,"images/button_stage_construction.png"),new A.ef("\u9109\u520a\u88fd\u4f5c",s,"images/button_magazine_production.png")],t.dJ),B.l)}}
+return new A.J3(A.a([new A.ef("\u4f01\u5283\u6d3b\u52d5\n\u884c\u92b7\u898f\u5283\u57f7\u884c",s,"graphics/images/button_marketing.png"),new A.ef("\u6d3b\u52d5\u651d\u5f71",s,"graphics/images/button_photography.png"),new A.ef("\u5c3e\u7259\u6625\u9152",s,"graphics/images/button_spring_wine.png"),new A.ef("\u958b\u571f\u52d5\u5de5",s,"graphics/images/button_opening.png"),new A.ef("\u665a\u6703\u898f\u5283",s,"graphics/images/button_party_planning.png"),new A.ef("\u97f3\u97ff\u79df\u501f",s,"graphics/images/button_audio_rental.png"),new A.ef("\u821e\u53f0\u642d\u5efa",s,"graphics/images/button_stage_construction.png"),new A.ef("\u9109\u520a\u88fd\u4f5c",s,"graphics/images/button_magazine_production.png")],t.dJ),B.l)}}
 A.J3.prototype={
 R(a,b){var s,r,q,p,o,n=this,m=null,l="screenWidth",k=t.w
 n.e=b.a3(k).f.a.a
